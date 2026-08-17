@@ -2,7 +2,7 @@
 export const students = [
   {
     id: 1,
-    name: 'Juan Dela Cruz',
+    name: 'kyle pasobillo',
     course: 'BSCS',
     yearLevel: 2,
     status: 'Regular',
